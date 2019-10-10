@@ -1,0 +1,5 @@
+train/bdaqm_181.jpg train/bdaqm_181.xml
+train/bdaqm_39.jpg train/bdaqm_39.xml
+train/bdaqm_50.jpg train/bdaqm_50.xml
+train/bdaqm_4538.jpg train/bdaqm_4538.xml
+train/bdaqm_237.jpg train/bdaqm_237.xml

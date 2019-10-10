@@ -1,0 +1,1 @@
+test/bdaqm_8.jpg test/bdaqm_8.xml
